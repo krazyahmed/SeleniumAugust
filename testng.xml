@@ -1,0 +1,15 @@
+
+<suite name="OrangeHRM TestSuite">
+  <test name="End to end Testing">
+    <classes>
+      <class name="day24.Login"/>
+      <class name="day24.AddEmployee"/>
+      <class name="day24.DeleteEmployee"/>
+      <class name="day24.Logout"/>
+       <class name="day24.TestSuiteResults"/>
+      
+     
+      
+    </classes>
+  </test>
+</suite> 

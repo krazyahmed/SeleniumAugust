@@ -33,6 +33,7 @@ public class DropdownTesting3 {
 				System.out.println(dropdown.get(i).getText()+" is active");
 			}
 		}
+		
 		driver.close();
 	
 	

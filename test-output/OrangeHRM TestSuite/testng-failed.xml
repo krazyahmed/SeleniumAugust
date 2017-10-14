@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRM TestSuite]">
+  <test name="End to end Testing(failed)">
+    <classes>
+      <class name="day24.DeleteEmployee">
+        <methods>
+          <include name="delEmpTest"/>
+        </methods>
+      </class> <!-- day24.DeleteEmployee -->
+    </classes>
+  </test> <!-- End to end Testing(failed) -->
+</suite> <!-- Failed suite [OrangeHRM TestSuite] -->
